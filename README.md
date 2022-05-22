@@ -9,7 +9,7 @@
 
 ⭐ My skills as is: 
 <p align="center">
-<a href="https://git-scm.com/" target="blanc"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="65" height="65"/> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="65" height="65"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="65" height="65"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="65" height="65"/> </a>
