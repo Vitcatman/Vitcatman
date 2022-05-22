@@ -1,11 +1,14 @@
 <h2 align="center"> Hi, my name is Vitalii👋 </h2>
-<h3 align="center">Front End developer</h3>
 <p align="center">
-<a href = "mailto: vlegkiy85@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mikhail@nenashev.dev" height="30" width="30" /></a> </p>
+<a href = "mailto: vlegkiy85@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="VitCatman" height="30" width="30" /></a> <a href="https://linkedin.com/in/vitalii-kotov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vitaliikotov" height="30" width="30" /></a></p>
+
+____
+
 
 - 🔭 I’m currently working on **Different practice projects**
 - 🌱 I’m currently practicing **Vanilla JS / React / Redux (RTK) / Router / TypeScript**
-
+- 
+____
 
 
 ⭐ My skills as is: 
