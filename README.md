@@ -25,10 +25,11 @@ ____
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-⭐ I plan to learn:
-
+⭐ I will learn soon:
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+</p>
